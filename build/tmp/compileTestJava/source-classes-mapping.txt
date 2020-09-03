@@ -1,0 +1,2 @@
+ru/netology/Test1.java
+ ru.netology.Test1

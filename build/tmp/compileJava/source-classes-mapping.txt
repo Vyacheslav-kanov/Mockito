@@ -1,0 +1,19 @@
+ru/netology/geo/GeoServiceImpl.java
+ ru.netology.geo.GeoServiceImpl
+ru/netology/i18n/LocalizationServiceImpl.java
+ ru.netology.i18n.LocalizationServiceImpl
+ ru.netology.i18n.LocalizationServiceImpl$1
+ru/netology/geo/GeoService.java
+ ru.netology.geo.GeoService
+ru/netology/sender/MessageSender.java
+ ru.netology.sender.MessageSender
+ru/netology/Main.java
+ ru.netology.Main
+ru/netology/entity/Location.java
+ ru.netology.entity.Location
+ru/netology/entity/Country.java
+ ru.netology.entity.Country
+ru/netology/i18n/LocalizationService.java
+ ru.netology.i18n.LocalizationService
+ru/netology/sender/MessageSenderImpl.java
+ ru.netology.sender.MessageSenderImpl
